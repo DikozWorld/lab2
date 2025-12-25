@@ -69,7 +69,7 @@ public class Main {
                 }
             }
         }
-
+/* result = lastOp == '+' ? result += num : result -= num; */
         return result;
     }
 }
